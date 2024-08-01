@@ -25,7 +25,7 @@
     "jira-client": "^6.21.1",
     "js-yaml": "^3.14.0",
     "lodash": "^4.17.20",
-    "minimatch": "^3.0.4",
+    "minimatch": "^10.0.1",
     "moment-timezone": "^0.5.31",
     "node-fetch": "^2.6.1",
     "p-iteration": "^1.1.8",
